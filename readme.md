@@ -110,9 +110,9 @@ Interesting: how much diversity do you want?
 - granular customizing
 - containment
 
-![moving contexts 1](../repo/images/IMG_1300.heic.jpg)
+![moving contexts 1](images/IMG_1300.heic.jpg)
 
-![moving contexts 2](../repo/images/IMG_1301.heic.jpg)
+![moving contexts 2](images/IMG_1301.heic.jpg)
 
 What is core will change over time.
 
@@ -120,15 +120,15 @@ What is core will change over time.
 
 Question your domain structure to keep your competitive edge
 
-![monolith cracking](../repo/images/IMG_1302.heic.jpg)
+![monolith cracking](images/IMG_1302.heic.jpg)
 
-![align biz with architecture](../repo/images/IMG_1304.heic.jpg)
+![align biz with architecture](images/IMG_1304.heic.jpg)
 
 Decouple and align biz and tech structure.
 
-![evolve socitotechnical architecture](../repo/images/IMG_1305.heic.jpg)
+![evolve socitotechnical architecture](images/IMG_1305.heic.jpg)
 
-![highly valuable context discovery through collaboration](../repo/images/IMG_1307.heic.jpg)
+![highly valuable context discovery through collaboration](images/IMG_1307.heic.jpg)
 
 Interesting: book Team Topologies
 
@@ -136,7 +136,7 @@ Social architecture is more fluid than tech architecture.
 
 Teams should be able to select their work by themselves
 
-![fluid social architecture](../repo/images/IMG_1308.heic.jpg)
+![fluid social architecture](images/IMG_1308.heic.jpg)
 
 Interesting: concept supercontext
 
@@ -148,11 +148,11 @@ Interesting: Messaging Patterns by Mathias Verraes
 
 ## Visualizing sociotechnical architectures with Context Maps - Michael Plöd
 
-![enterprise problems](../repo/images/IMG_1312.heic.jpg)
+![enterprise problems](images/IMG_1312.heic.jpg)
 
-![decentralize governance](../repo/images/IMG_1313.heic.jpg)
+![decentralize governance](images/IMG_1313.heic.jpg)
 
-![align biz and design](../repo/images/IMG_1314.heic.jpg)
+![align biz and design](images/IMG_1314.heic.jpg)
 
 Decentralize governance aspects for autonomy and speed
 
