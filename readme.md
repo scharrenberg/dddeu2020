@@ -169,9 +169,11 @@ Be aware of systems bias which tends to push towards early stuctured modelling.
 - not user centered
 - alternative: event storming
 
-Mapping is more important than maps
+Mapping is more important than maps.
 
-Wardley maps for context mapping.
+![wardley context map](images/IMG_1341.heic.jpg)
+
+Wardley maps for context mapping
 
 ## "Nothing will ever be the same" - Avram Poupko
 
